@@ -1,0 +1,11 @@
+Model Information:
+* title:	Thermal katana remake
+* source:	https://sketchfab.com/3d-models/thermal-katana-remake-97566e9dafc14a9d88053baf703d332f
+* author:	Brave_Iruka (https://sketchfab.com/Brave_Iruka)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Thermal katana remake" (https://sketchfab.com/3d-models/thermal-katana-remake-97566e9dafc14a9d88053baf703d332f) by Brave_Iruka (https://sketchfab.com/Brave_Iruka) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
